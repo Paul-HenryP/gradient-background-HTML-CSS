@@ -1,2 +1,2 @@
 # gradient-background-HTML-CSS
-Here is a template for a gradient background in a static website.
+Here is a template for a gradient background for a website.
