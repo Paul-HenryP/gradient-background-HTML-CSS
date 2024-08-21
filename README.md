@@ -37,7 +37,7 @@ Example:
 }
 ```
 
-Save the changes and refresh your browser to see the updated gradient.
+4. **Save the changes and refresh your browser to see the updated gradient.**
 
 ## Contributing
 
