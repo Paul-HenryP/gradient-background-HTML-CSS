@@ -16,11 +16,12 @@ This repository provides a simple HTML/CSS template to create gradient backgroun
 ## Usage
 
 1. **Clone the repository**:
+   
    ```bash
-   git clone https://github.com/yourusername/gradient-background-template.git
+   git clone [https://github.com/Paul-HenryP/gradient-background-HTML-CSS.git](https://github.com/Paul-HenryP/gradient-background-HTML-CSS)
    ```
 
-2. **Open the index.html file in your browser to see the gradient background in action.**
+3. **Open the index.html file in your browser to see the gradient background in action.**
 
 2. **Customize the Gradient**:
 
