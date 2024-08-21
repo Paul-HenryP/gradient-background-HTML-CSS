@@ -4,7 +4,7 @@ This repository provides a simple HTML/CSS template to create gradient backgroun
 
 ## Preview
 
-![Gradient Background Preview](https://paul-henryp.github.io/gradient-background-HTML-CSS/)) 
+[Gradient Background Preview](https://paul-henryp.github.io/gradient-background-HTML-CSS/) 
 *A visual representation of the gradient background.*
 
 ## Features
@@ -18,14 +18,15 @@ This repository provides a simple HTML/CSS template to create gradient backgroun
 1. **Clone the repository**:
    
    ```bash
-   git clone [https://github.com/Paul-HenryP/gradient-background-HTML-CSS.git](https://github.com/Paul-HenryP/gradient-background-HTML-CSS)
+   git clone https://github.com/Paul-HenryP/gradient-background-HTML-CSS
    ```
 
 3. **Open the index.html file in your browser to see the gradient background in action.**
 
 2. **Customize the Gradient**:
 
-Open style.css.
+Open index.css
+
 Modify the background property under the .gradient class to the colors of your choice:
 
 Example:
