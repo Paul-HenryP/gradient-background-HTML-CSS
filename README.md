@@ -5,7 +5,7 @@ This repository provides a simple HTML/CSS template to create gradient backgroun
 ## Preview
 
 [Gradient Background Preview](https://paul-henryp.github.io/gradient-background-HTML-CSS/) 
-*A visual representation of the gradient background.*
+
 
 ## Features
 
